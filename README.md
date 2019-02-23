@@ -1,4 +1,4 @@
-Demonstrate [Parcel issue 2671](https://github.com/parcel-bundler/parcel/issues/2671).
+Demonstrate [Parcel issue 2672](https://github.com/parcel-bundler/parcel/issues/2672).
 
 ## Steps to reproduce
 
