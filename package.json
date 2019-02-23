@@ -1,0 +1,9 @@
+{
+    "name": "bug-demo-parcel-process.hrtime.bigint",
+    "scripts": {
+        "build": "parcel build --target node index.js"
+    },
+    "devDependencies": {
+        "parcel": "1.11.0"
+    }
+}
